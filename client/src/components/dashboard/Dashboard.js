@@ -20,6 +20,7 @@ const Dashboard = ({
     <Spinner />
   ) : (
     <section className="container">
+      <Alert />
       <h1 className="large text-primary">Dashboard</h1>
       <p className="lead">
         <i className="fas fa-user"></i> Welcome {user && user.name}

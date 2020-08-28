@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://aryan:aryan@deveet.fe9pq.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "secretjwt",
+  "githubClientId": "06b7d8a3161d9686ea42",
+  "githubSecret": "1f335a4aa5b182039939a8462e32997490403664"
+}
